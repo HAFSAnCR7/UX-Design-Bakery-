@@ -3,4 +3,4 @@
 ## First Section will contain the wireframe of the bakery app
 
 ## Wireframes for Bakery app
-<img src="DivineEats.png" width=620>
+<img src="Wireframes for bakery.png" width=620>
